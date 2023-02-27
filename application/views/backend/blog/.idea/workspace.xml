@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b00b77b-ee06-4181-9fc4-8d27abc4e978" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../controllers/backend/Category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../controllers/backend/DeliveryMethods.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../controllers/backend/Images.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../controllers/backend/OrderStatus.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../controllers/backend/Orders.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../controllers/backend/PaymentMethods.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../controllers/backend/Products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../controllers/backend/Users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../models/Category_model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../models/Delivery_methods_model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../models/Images_model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../models/Order_status_model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../models/Orders_model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../models/Payment_methods_model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../models/Products_model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../models/Users_model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../categories/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../categories/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../categories/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../category/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../delivery_methods/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../delivery_methods/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../delivery_methods/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../images/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order_status/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order_status/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order_status/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orders/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orders/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orders/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../payment_methods/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../payment_methods/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../payment_methods/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../products/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../products/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../products/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../settings/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../settings/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../settings/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../users/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../users/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../users/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../config/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../controllers/backend/Blog.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../controllers/backend/Blog.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../controllers/backend/Brands.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../controllers/backend/Brands.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../migrations/015_add_orders.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../migrations/015_add_orders.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../migrations/016_add_order_status.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../migrations/016_add_order_status.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../models/Blog_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../models/Blog_model.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../models/Categories_model.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../../models/Categories_model.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../admins/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/../admins/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../brands/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/../brands/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/../template/sidebar.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="2JEIT11SQEP3ZqSf6kHpNCuhfdc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/wamp64/www/blog",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b00b77b-ee06-4181-9fc4-8d27abc4e978" name="Changes" comment="" />
+      <created>1671636820001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671636820001</updated>
+      <workItem from="1671636821129" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
